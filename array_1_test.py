@@ -5,4 +5,4 @@ age[2] = "15"
 age[3] = "41"
 age[4] = "43"
 choice = int(input("Which age would you like to see?"))
-print(age[choice]2\)
+print(age[choice])
