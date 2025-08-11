@@ -13,5 +13,5 @@ else:
     print ("Please enter a valid entry!")
 
 print ("john total vote :",jvote)
-print ("adam total votes :",avote)
+print ("adam total vote :",avote)
 print ("sam total vote :",svote)
